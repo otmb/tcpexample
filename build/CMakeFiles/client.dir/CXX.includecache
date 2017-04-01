@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/o2/work/socketTest/client.cpp
+iostream
+-
+vector
+-
+cstdint
+-
+fstream
+-
+socket_lib.h
+/home/o2/work/socketTest/socket_lib.h
+
+/home/o2/work/socketTest/socket_lib.h
+string
+-
+netinet/in.h
+-
+resolv.h
+-
+sys/socket.h
+-
+arpa/inet.h
+-
+unistd.h
+-
+iostream
+-
+fstream
+-
+functional
+-
+future
+-
+

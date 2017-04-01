@@ -1,0 +1,4 @@
+/home/o2/work/socketTest/build/CMakeFiles/rebuild_cache.dir
+/home/o2/work/socketTest/build/CMakeFiles/edit_cache.dir
+/home/o2/work/socketTest/build/CMakeFiles/client.dir
+/home/o2/work/socketTest/build/CMakeFiles/server.dir
